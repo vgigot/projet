@@ -59,7 +59,7 @@ public class GameBoard extends JPanel {
 	
 	
 	//----------------------------------------------------------
-	// je teste Git
+	// je teste Gits
 	
 	 public GameBoard(int scX,int scY, GameModel gm) {
     	scaleX = scX+2; scaleY = scY+2;
